@@ -37,7 +37,7 @@
         "bower-asset/select2": "^4.0.4",
         "bower-asset/select2-bootstrap-theme": "0.1.0-beta.4",
         "cebe/markdown": "1.0.2",
-        "firebase/php-jwt": "^5.0",
+        "firebase/php-jwt": "^6.0",
         "jbroadway/urlify": "^1.0",
         "kartik-v/yii2-widgets": "*",
         "mistic100/randomcolor": "^1.0",
